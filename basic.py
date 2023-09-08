@@ -1,6 +1,6 @@
 print("hello aravind")
 
-print("hey Aravind !")
+print("hey Aravind!")
 
 def even(num):
     if num%2 == 0:
